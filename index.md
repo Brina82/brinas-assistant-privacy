@@ -1,6 +1,6 @@
 Privacy Policy — Brina’s assistant
 
-Effective date: August 20, 2026
+Effective date: september 20, 2026
 
 Brina’s assistant is a Discord bot operated by Brina82 and designed to provide utility and entertainment features within Discord servers.
 
@@ -39,7 +39,9 @@ Data Retention and Deletion
 
 Saved timezone preferences are retained until they are reset or otherwise removed by the bot’s functionality, or until the associated data is deleted by the bot operator.
 
-If you would like your stored timezone preference and associated Discord User ID removed, you may contact the bot operator, or use the appropriate command to remove it automatically. (;tz reset)
+If you would like your stored timezone preference and associated Discord User ID removed, you may contact the bot operator, or use the appropriate command to remove it automatically.
+
+;tz reset
 
 Children’s Privacy
 
